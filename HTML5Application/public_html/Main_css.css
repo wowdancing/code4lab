@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 .menu {
     background-color: #2e3138;
     height: 100px;
-=======
-.menu {
+}
+    .menu {
     background-color: #2e3138;
     height: 100px;
     padding: 0px;
@@ -11,5 +10,4 @@
 }
 .brain {
     margin-top: 8px;
->>>>>>> 39ebead1e6638b6544120f6db85b05badbc3b21a
 }
