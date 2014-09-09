@@ -9,5 +9,14 @@
     margin: 0px;
 }
 .brain {
-    margin-top: 8px;
+    margin-top: 7.5px;
+    margin-left: 4px;
+}
+.menu_valg {
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-bottom: 50px;
+    display: inline;
 }
