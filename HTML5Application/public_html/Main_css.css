@@ -1,18 +1,36 @@
-.menu {
-  background-color: #2e3138;
-  height: 100px;
-  padding: 0px;
-  margin: 0px;
+﻿body {
+    background-color: burlywood;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
 }
-.brain {
-    margin-top: 7.5px;
-    margin-left: 4px;
-}
-.menu_valg {
-    list-style-type: none;
+
+ul {
+    background-color: #2e3138;
+    height: 90px;
     text-decoration: none;
-    font-size: 30px;
-    margin-left: 15px;
-    margin-bottom: 50px;
-    display: inline;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
 }
+
+li {
+    display: inline;
+    padding-right: 30px;
+}
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+li a:hover {
+    color: greenyellow;
+}
+
+.menu_valg {
+    color: white;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
