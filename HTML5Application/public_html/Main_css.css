@@ -20,4 +20,16 @@
 .overskrift {
     color: #092557;
     margin-left: 470px;
+    webkit-stroke-width: 8.3px;
+    webkit-stroke-color: #15D45B;
+    webkit-fill-color: #FFFFFF;
+    text-shadow: 1px 0px 20px #15D45B;
+    webkit-transition: width 0.3s; /*Safari & Chrome*/
+    transition: width 0.3s;
+    moz-transition: width 0.3s; /* Firefox 4 */
+    o-transition: width 0.3s; /* Opera */
+    font-size: 40px;
+    font-family: Comic Sans MS;
+    
+    
 }
