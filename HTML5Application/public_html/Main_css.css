@@ -1,12 +1,8 @@
 .menu {
-    background-color: #2e3138;
-    height: 100px;
-}
-    .menu {
-    background-color: #2e3138;
-    height: 100px;
-    padding: 0px;
-    margin: 0px;
+  background-color: #2e3138;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
 }
 .brain {
     margin-top: 7.5px;
